@@ -1,13 +1,13 @@
 
-# Assignment: Games in Python - Hangman
+# 📘 Assignment: Games in Python - Hangman
 
-## Objective
+## 🎯 Objective
 
 Build a command-line Hangman game in Python to practice core programming skills, including strings, loops, conditionals, and user input handling.
 
-## Tasks
+## 📝 Tasks
 
-### Task 1: Build the Core Hangman Game
+### 🛠️ Task 1: Build the Core Hangman Game
 
 #### Description
 Create the main game loop for Hangman. The program should choose a hidden word, let the player guess one letter at a time, and show progress after each guess.
@@ -20,7 +20,7 @@ Completed program should:
 - Display the current word progress using underscores for unknown letters.
 - Keep track of guessed letters so repeated guesses can be handled clearly.
 
-### Task 2: Add Win/Lose Logic and Feedback
+### 🛠️ Task 2: Add Win/Lose Logic and Feedback
 
 #### Description
 Finish the game by tracking incorrect guesses and ending with a clear outcome message. Make sure the player always understands what happened and what to do next.
